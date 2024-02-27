@@ -3,6 +3,9 @@ from sqlalchemy import create_engine
 import pandas as pd
 from dotenv import load_dotenv
 
+#This file is empty because the project was all done in project.ipynb
+
+
 # load the .env file variables
 load_dotenv()
 
